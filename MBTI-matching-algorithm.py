@@ -15,10 +15,10 @@ def process_data():
     if request.method == 'POST':    
         data = request.json
         global a,b,c,d
-        a = data.get('a')
-        b = data.get('b')
-        c = data.get('c')
-        d = data.get('d')
+        a = data.get('a') #user' first letter of his MBTI personality type
+        b = data.get('b') #user' second letter of his MBTI personality type
+        c = data.get('c') #user' third letter of his MBTI personality type
+        d = data.get('d') #user' fourth letter of his MBTI personality type
 
         if None in (a, b, c, d):
             return jsonify({'error': 'Missing required parameters'}), 400
