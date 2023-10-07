@@ -8,3 +8,6 @@ MBTI-based algorithm to include in your web or mobile application to find the ma
 ## Packages
 1. Python
 2. Flask App
+
+## License
+Only personal use.
