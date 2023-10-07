@@ -17,4 +17,4 @@ For Javascript scripting code:
 2. Express.js
 
 ## License
-Only personal use. For any use, please contact me here: https://forms.gle/G7TLUy2CUyBaNEEy7 .
+Only personal use. For any other use, please contact me here: https://forms.gle/G7TLUy2CUyBaNEEy7 .
